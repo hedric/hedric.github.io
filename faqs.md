@@ -1,20 +1,18 @@
 ---
 layout: page
-title: "问答"
+title: "FAQ"
 ---
-记录工作中遇到的一些小问题及解决办法，以防忘记后重头再找答案。
+#### Format:
+Q: When pressing "Alt+Ctrl+Down or Alt+Ctrl+Up" in Eclipse under Win7, what should I do if the result screen is down?
+A: Is it a conflict with other application shortcuts? For example, if you are using an Intel graphics card, you can select "Graphic Properties" > "Options and Support" to replace the corresponding shortcut keys. Reference: http://www.2cto.com/os/201201/116412.html
 
-#### 格式：
-问：Win7下 Eclipse中按"Alt+Ctrl+Down或Alt+Ctrl+Up"时，结果屏幕倒了怎么办？  
-答：是不是和其它应用的快捷键冲突了？比如Intel显卡，则可选择“图形属性”>“选项和支持”，将对应快捷键换掉。参考：http://www.2cto.com/os/201201/116412.html
-
-#### 或作为url收藏记录
-1,Markdown语法：<http://wowubuntu.com/markdown/basic.html>  
-2,Oracle现在真是恶心，下载个Java SDK还非得让登陆不可。只好再找下载地址了: <http://ghaffarian.net/downloads/>  
-3,git文章收藏:  
-Git分支管理策略: <http://www.ruanyifeng.com/blog/2012/07/git.html>    
-Git查看、删除、重命名远程分支和tag: http://zengrong.net/post/1746.htm  
-4,Google无障碍浏览链接：<https://github.com/greatfire/wiki>  
-5,在线Android等源码：<http://www.grepcode.com/>, <http://androidxref.com/>  
-6,Twitter University: <http://www.bluemobi.cn/>  
-更多请看本文评论，欢迎来盖楼！
+#### Or as a url collection record
+1, Markdown syntax: <http://wowubuntu.com/markdown/basic.html>
+2, Oracle is really disgusting now, downloading a Java SDK still has to log in. Had to find the download address again: <http://ghaffarian.net/downloads/>
+3, git article collection:
+Git branch management strategy: <http://www.ruanyifeng.com/blog/2012/07/git.html>
+Git to view, delete, rename remote branches and tags: http://zengrong.net/post/1746.htm
+4, Google accessibility browsing link: <https://github.com/greatfire/wiki>
+5, online Android and other source code: <http://www.grepcode.com/>, <http://androidxref.com/>
+6,Twitter University: <http://www.bluemobi.cn/>
+More please see this article comments, welcome to cover the building!
