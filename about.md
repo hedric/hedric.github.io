@@ -26,15 +26,4 @@ title: "About"
 
 
 ## 4.Recognition
-- Om innehållet på den här webbplatsen har hjälpt dig, kom ihåg att samla, dela eller belöna stöd tack! !  
-
-AirPlay:  
-<div style="width:220px">
-    <img width="220" height="220" src="/images/donate_alipay.jpg"/>
-</div>
-WebChat:  
-<div style="width:220px">
-    <img width="220" height="220" src="/images/donate_weixin.jpg"/>
-</div>
-
-google cloud!
+- Om innehållet på den här webbplatsen har hjälpt dig, kom ihåg att samla, dela eller belöna stöd tack!
