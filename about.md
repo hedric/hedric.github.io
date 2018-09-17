@@ -1,38 +1,38 @@
 ---
 layout: page
-title: "关于"
+title: "About"
 ---
-## 博客主题
-- **探索尝试，发现未知可能！**  
+## Blog Theme
+- **Explore the unknown！**  
 
 
-## 1.说明
-- 本博客基于Jekyll工具构建，模板代码公开。[(源码)](https://github.com/panxw/panxw.github.com)  
-- 模板代码可任意使用，但请保留本站**友情链接**。  
-- 本站名称：Panxw's Blog  
-- 本站网址：https://www.panxw.com  
+## 1.Description
+- This blog is built on the basis of the Jekyll tool and the template code is public.[(Source)](https://github.com/panxw/panxw.github.com)  
+- The template code can be used at will, but please keep this site** link**。  
+- Site name：Panxw's Blog  
+- Website：https://www.panxw.com  
 
 
-## 2.个人信息
-- Panxw，80后，男，武汉，2011年起从事Android开发至今。
-- 另熟悉IOS/React Native/Node.js等开发技术。  
-- 欢迎技术交流。  
+## 2.Personal Information
+- Panxw，after 80，male，Wuhan，has been engaged in Android development since 2011.
+- Also familiar with development techniques such as IOS/React Native/Node.js.  
+- Welcome to technical exchanges.
 
 
-## 3.联系方式
+## 3.Contact Information
 - Github: panxw  
 - Email: winfirm(at)163.com, qq: 85902258  
 - QQ交流群: 168563980  
 
 
-## 4.赞助
-- 如果本站内容帮助到了你，请记得收藏、分享，或打赏支持，谢谢！！  
+## 4.Recognition
+- Om innehållet på den här webbplatsen har hjälpt dig, kom ihåg att samla, dela eller belöna stöd tack! !  
 
-支付宝:  
+AirPlay:  
 <div style="width:220px">
     <img width="220" height="220" src="/images/donate_alipay.jpg"/>
 </div>
-微信:  
+WebChat:  
 <div style="width:220px">
     <img width="220" height="220" src="/images/donate_weixin.jpg"/>
 </div>
