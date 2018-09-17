@@ -3,25 +3,25 @@ highlighter: rouge
 permalink: /:categories/:title.html 
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "panxw"
-email: winfirm#163.com
-name: "Panxw's Blog"
+github: hedric
+author: "hedric"
+email: placeholder@mail.com
+name: "Hedric's Blog"
 baseurl: /
-url: http://www.panxw.com
-domain: www.panxw.com
+url: hedric.github.io
+domain:
 
 all_categories: [
-  ["android", "Android开发","/android/index.html"], 
+  ["android", "Android","/android/index.html"], 
   ["react", "React Native", "/react/index.html"],
-  ["web", "Web建站","/web/index.html"], 
-  ["linux", "Linux相关","/linux/index.html"],
-  ["git", "git用法","/git/index.html"],
-  ["program", "软件开发","/program/index.html"],
+  ["web", "Web","/web/index.html"], 
+  ["linux", "Linux","/linux/index.html"],
+  ["git", "git","/git/index.html"],
+  ["program", "Program","/program/index.html"],
   ["vps", "VPS","/vps/index.html"],
-  ["other", "杂记","/other/index.html"],
-  ["read", "书摘","/read/index.html"], 
-  ["about", "关于","/about.html"]
+  ["other", "Other","/other/index.html"],
+  ["read", "Read","/read/index.html"], 
+  ["about", "About","/about.html"]
 ]
 
 paginate: 10 
